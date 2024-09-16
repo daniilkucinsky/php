@@ -8,7 +8,7 @@ function showTask($inputTasks){
 }
 
 function addTask(){
-    echo "To be implemented!\n"
+    echo "To be implemented!\n";
 }
 
 do {
